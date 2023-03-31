@@ -1,7 +1,7 @@
 # - Date Time Handling
 # - Padding timeseries by hour
 # - Converting NA to 0
-# - teste
+# - teste 2
 
 #https://statisticsglobe.com/insert-rows-for-missing-dates-in-r
 #---------------------------------------------------------------
