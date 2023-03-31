@@ -3,6 +3,10 @@
 # - Converting NA to 0
 # - teste 2
 
+credentials::set_github_pat()
+
+credentials::set_github_pat("")
+
 #https://statisticsglobe.com/insert-rows-for-missing-dates-in-r
 #---------------------------------------------------------------
 #install.packages("padr")
