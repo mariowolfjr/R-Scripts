@@ -12,7 +12,7 @@ library("padr")
 library("ggplot2")
 
 # Load file
-df.Data <- read.csv("R-GGPlot-Line/Calls_2.csv")
+df.Data <- read.csv("Auxiliar/Calls_2.csv")
 
 # Create column DateTime2 as POSIXct format.
 df.Data$DateTime2 <- as.POSIXct(df.Data$DateTime, tz = "", '%Y-%m-%d %H:%M')
